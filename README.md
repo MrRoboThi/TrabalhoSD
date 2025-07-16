@@ -1,5 +1,8 @@
 # TrabalhoMulticast
 
+Aluno: Thiago Azevedo dos Santos Pereira
+Matrícula: 222215177
+
 Esse código é referente ao trabalho prático da Disciplina Fundamentos de Sistemas Distribuídos da Universidade Federal da Bahia, semestre 2025.1
 
 Como usar o script:
