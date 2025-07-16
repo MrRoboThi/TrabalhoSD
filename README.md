@@ -41,7 +41,9 @@ O relógio não é incrementado com uma retransmissão. Então se por exemplo a 
 As mensagens carregam timestamp de tempo real.
 
 Imagem do funcionamento e explicação:
-![Multicast](https://github.com/user-attachments/assets/c38a9703-b88a-4ef7-b54b-0116b5c6ee3c)
+
+![Multicast](https://github.com/user-attachments/assets/b2470d05-5a21-4db9-a3e9-f2a2e3955ba1)
+
 
 Como explicado no começo desse documento, foram abertos três terminais para verificar a quantidade mínima de processos ativos e funcionais (3). 
 
