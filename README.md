@@ -11,6 +11,7 @@ I - Como usar o script:
 
 2 - Digamos que o teste seja feito com 3 processos ativos, então a aplicação deve ser aberta em 3 terminais iniciando o processo da seguinte forma: 
 Terminal 1: python multicast.py 0 3 / Terminal 2: python multicast.py 1 3 / Terminal 3: python multicast.py 2 3
+
 Feito isso, você pode enviar uma mensagem que será recebida pelos outros processos. Caso uma mensagem seja enviada, porém não haja a quantidade correta de processos ativos, haverá a tentativa de retransmissão.
 
 II - Arquitetura do sistema:
